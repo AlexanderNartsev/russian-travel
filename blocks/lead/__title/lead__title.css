@@ -1,8 +1,7 @@
 .lead__title {
     margin: 56px auto 32px;
     
-    width: 720px;
-    height: 200px;
+    max-width: 720px;
 
     font-family: 'Inter';
     font-style: normal;

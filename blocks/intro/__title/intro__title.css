@@ -3,8 +3,7 @@
     margin-top: 114px;
     margin-bottom: 40px;
 
-    width: 690px;
-    height: 58px;
+    max-width: 690px;
 
     font-family: Inter;
     font-style: normal;

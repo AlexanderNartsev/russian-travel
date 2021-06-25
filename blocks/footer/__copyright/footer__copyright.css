@@ -1,8 +1,7 @@
 .footer__copyright {
     margin: 0;
 
-    width: 186px;
-    height: 16px;
+    max-width: 186px;
 
     font-family: Inter;
     font-style: normal;

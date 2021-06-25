@@ -1,0 +1,10 @@
+.cover {
+    max-width: 1184px;
+    position: relative;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    box-sizing: border-box;
+}

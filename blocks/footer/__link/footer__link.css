@@ -2,8 +2,7 @@
     margin: 0;
     margin-right: 18px;
 
-    width: 106px;
-    height: 18px;
+    max-width: 106px;
 
     font-family: Inter;
     font-style: normal;

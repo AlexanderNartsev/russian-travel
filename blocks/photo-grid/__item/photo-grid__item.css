@@ -1,11 +1,4 @@
 .photo-grid__item {
-    width: 284px;
-    height: 213px;
-
-    margin: 0;
-    margin-right: 16px;
-}
-
-.photo-grid__item:nth-of-type(4n) {
-    margin-right: 0;
+    max-width: 100%;
+    width: 100%;
 }
