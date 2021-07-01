@@ -1,4 +1,4 @@
-.cover__link-element {
+.cover__overlay {
 
     max-width: 100%;
     width: 100%;
@@ -14,7 +14,7 @@
 
 }
 
-.cover__link-element::before {
+.cover__overlay::before {
     
     max-width: 100%;
     width: 100%;
@@ -33,7 +33,7 @@
     
 }
 
-.cover__link-element:hover {
+.cover__overlay:hover {
 
     background: #2A2C2F;
     opacity: 0.8;
