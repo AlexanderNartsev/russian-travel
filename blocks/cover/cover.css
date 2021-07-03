@@ -4,10 +4,41 @@
 
     position: relative;
 
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    background-image: url(../../images/cover-trains.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    padding-top: 19.1%;
+    padding-bottom: 19.1%;
+
+    box-sizing: border-box;
 
 }
 
+.cover::before {
+    
+    max-width: 100%;
+    width: 100%;
+    max-height: 100%;
+    height: 100%;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    background: #2A2C2F;
+
+    opacity: 0.3;
+    display: block;
+    content: "";
+
+    z-index: 2;
+    
+}
+
+.cover:hover {
+
+    opacity: 0.8;
+
+}
