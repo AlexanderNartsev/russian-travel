@@ -1,7 +1,8 @@
-.lead__image {
+.lead__image-element {
+
     margin: 0;
-    margin-bottom: 8px;
 
     max-width: 100%;
     width: 100%;
+
 }
