@@ -1,13 +1,13 @@
 .page__section_block_cover {
 
-        margin: 92px auto;
+        margin: 92px auto 0;
 
 }
 
 @media screen and (max-width: 1023px) {
         
     .page__section_block_cover {
-            margin: 90px auto;
+            margin: 90px auto 0;
         }
     
 }
