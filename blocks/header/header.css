@@ -23,6 +23,7 @@
 
     .header {
         padding: 16px 16px 0;
+        min-height: 52px;
     }
 
 } 

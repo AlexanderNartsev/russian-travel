@@ -6,4 +6,8 @@
     .menu__item {
         margin-top: 32px;
     }
+
+    .menu__item:first-of-type {
+        margin-top: 0;
+    }
 }

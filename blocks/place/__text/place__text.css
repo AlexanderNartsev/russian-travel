@@ -3,3 +3,11 @@
     margin: 0;
 
 }
+
+@media screen {
+
+    .place__text {
+        margin-top: 32px;
+    }
+    
+}
